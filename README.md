@@ -1,11 +1,48 @@
-<div align="center">
+# 💰 FinTrack Pro - Gestão Financeira Inteligente
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+![FinTrack Pro Banner](https://picsum.photos/seed/finance/1200/400)
 
-  <h1>Built with AI Studio</h2>
+O **FinTrack Pro** é uma plataforma completa de gestão financeira pessoal que une design moderno, controle rigoroso de gastos e o poder da Inteligência Artificial para ajudar você a alcançar a liberdade financeira.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## ✨ Funcionalidades Principais
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### 📊 Dashboard Inteligente
+- **Visão Geral:** Acompanhe seu saldo, receitas e despesas mensais em tempo real.
+- **Gráficos Dinâmicos:** Visualize a distribuição dos seus gastos por categoria e a evolução do seu fluxo de caixa.
+- **Filtros Temporais:** Navegue facilmente entre meses e anos para analisar seu histórico.
 
-</div>
+### 🤖 FinAI - Seu Assistente com IA
+- **Insights Personalizados:** Um assistente baseado em IA que analisa suas transações do mês selecionado.
+- **Dicas de Economia:** Receba conselhos práticos e acionáveis para otimizar seu orçamento.
+- **Sugestões de Organização:** A IA identifica padrões e sugere melhorias na sua classificação de gastos.
+
+### 🎯 Controle de Orçamentos
+- **Metas por Categoria:** Defina limites de gastos para cada categoria (Alimentação, Lazer, Transporte, etc.).
+- **Barra de Progresso:** Acompanhe visualmente o quanto você já consumiu do seu orçamento planejado.
+- **Alertas Visuais:** Identifique rapidamente quando um orçamento foi ultrapassado.
+
+### 🔐 Segurança e Privacidade
+- **Autenticação Segura:** Sistema de login e cadastro robusto via Supabase Auth.
+- **Isolamento de Dados:** Suas transações, categorias e orçamentos são estritamente privados e vinculados apenas à sua conta.
+- **Modo Escuro/Claro:** Interface adaptável para seu conforto visual, inclusive na tela de autenticação.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Frontend:** React 18 + TypeScript
+- **Estilização:** Tailwind CSS
+- **Animações:** Framer Motion
+- **Banco de Dados & Auth:** Supabase (PostgreSQL)
+- **Inteligência Artificial:** Google Gemini API
+- **Gráficos:** Recharts
+- **Ícones:** Lucide React
+
+## 🚀 Como Começar
+
+1. **Crie sua conta:** Acesse a tela de cadastro e comece em segundos.
+2. **Configure suas categorias:** Vá em Configurações para personalizar suas categorias com cores e ícones.
+3. **Registre seus gastos:** Adicione suas transações diárias de forma simples e rápida.
+4. **Consulte a FinAI:** Clique no ícone do robô no canto inferior direito para receber uma análise completa do seu mês.
+
+---
+
+Desenvolvido com ❤️ para ajudar você a dominar suas finanças.
