@@ -38,7 +38,13 @@ O **FinTrack Pro** é uma plataforma completa de gestão financeira pessoal que 
 
 ## 🚀 Como Começar
 
-1. **Crie sua conta:** Acesse a tela de cadastro e comece em segundos.
+1. **Configuração de Ambiente:** Crie um arquivo `.env` na raiz do projeto (ou configure no seu painel de segredos) com as seguintes variáveis:
+   ```env
+   VITE_SUPABASE_URL=sua_url_do_supabase
+   VITE_SUPABASE_ANON_KEY=sua_chave_anon_do_supabase
+   GEMINI_API_KEY=sua_chave_da_api_gemini
+   ```
+2. **Crie sua conta:** Acesse a tela de cadastro e comece em segundos.
 2. **Configure suas categorias:** Vá em Configurações para personalizar suas categorias com cores e ícones.
 3. **Registre seus gastos:** Adicione suas transações diárias de forma simples e rápida.
 4. **Consulte a FinAI:** Clique no ícone do robô no canto inferior direito para receber uma análise completa do seu mês.
